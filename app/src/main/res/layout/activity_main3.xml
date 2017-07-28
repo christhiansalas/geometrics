@@ -11,8 +11,8 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:text="TRIANGULO"
-        android:textSize="30dp"
+        android:text="@string/triangulo"
+        android:textSize="30sp"
         android:gravity="center"/>
 
 </android.support.constraint.ConstraintLayout>

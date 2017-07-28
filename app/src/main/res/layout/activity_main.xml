@@ -8,20 +8,20 @@
 
 
     <Button
-        android:onClick="cuad"
+        android:onClick="cuadrado"
         android:layout_width="150dp"
         android:layout_height="150dp" />
 
     <Button
         android:onClick="triangulo"
-        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
         android:layout_width="150dp"
         android:layout_height="150dp" />
 
     <Button
         android:onClick="circulo"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
         android:layout_width="150dp"
         android:layout_height="150dp" />
 

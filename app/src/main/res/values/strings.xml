@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">geometrics</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="triangulo">Tríangulo</string>
+    <string name="circulo">Círculo</string>
+    <string name="poligono">Polígono</string>
 </resources>

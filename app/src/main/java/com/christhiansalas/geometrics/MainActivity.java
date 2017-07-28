@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void cuad(View view){
+    public void cuadrado(View view){
 
         Intent intent =new Intent(MainActivity.this, Main2Activity.class);
         startActivity(intent);
