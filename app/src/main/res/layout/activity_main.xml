@@ -6,13 +6,31 @@
     android:layout_height="match_parent"
     tools:context="com.christhiansalas.geometrics.MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:onClick="cuadrado"
+        android:layout_width="150dp"
+        android:layout_height="150dp" />
+
+    <Button
+        android:onClick="triangulo"
+        android:layout_alignParentRight="true"
+        android:layout_width="150dp"
+        android:layout_height="150dp" />
+
+    <Button
+        android:onClick="circulo"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_width="150dp"
+        android:layout_height="150dp" />
+
+    <Button
+        android:onClick="poligono"
+        android:layout_alignParentBottom="true"
+        android:layout_width="150dp"
+        android:layout_height="150dp" />
+
+
 
 </RelativeLayout>
