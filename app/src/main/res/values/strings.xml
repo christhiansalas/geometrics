@@ -4,4 +4,5 @@
     <string name="triangulo">Tríangulo</string>
     <string name="circulo">Círculo</string>
     <string name="poligono">Polígono</string>
+    <string name="perimetro">Perimetro</string>
 </resources>
